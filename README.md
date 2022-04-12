@@ -1,2 +1,3 @@
 # hello-world
-Learning Repo
+## Learning Repo
+> Let's get this *shit* rolling then.  I guess I'm a **coder** now.
